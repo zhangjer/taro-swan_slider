@@ -1,0 +1,22 @@
+{
+    "appid": "17767960",
+    "projectname": "taro-swan_slider",
+    "host": "baiduboxapp",
+    "setting": {
+        "urlCheck": true
+    },
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.800.1",
+            "extensionJsVersion": "1.21.2"
+        }
+    },
+    "compilation-args": {
+        "common": {
+            "quickPreview": true
+        },
+        "forceChanged": {
+            "quickPreview": true
+        }
+    }
+}
